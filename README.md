@@ -53,6 +53,14 @@ For many surgical tasks, reinforcement learning (RL) is a frequently used machin
 
 # Cases of AI-supported surgery
 
+The collaboration between humans and robots the extent that enables human surgeons to conduct surgical robots through touchless persuasion. This operation is possible through head or hand movements, speech, and voice recognition, or via the surgeon's gaze.
+Surgeons' head movements have been used to remotely control robotic laparoscopes. "FAce MOUSe" – a human-robot interface – checks in real time the facial motions of the surgeon without any body-contact devices required. The motion of the laparoscope is easily and perfectly monitored by the facial gestures of the surgeon, hence providing noninvasive and nonverbal cooperation between the human and the robot for various surgical procedures.
+In 2017, Maastricht University Medical Center in the Netherlands used an AI-driven robot in a microsurgery intervention. The surgical robot was used to suture blood vessels between 0.03 and 0.08 millimeters in a patient affected by lymphedema. This chronic condition is often a side effect that transpires throughout the treatment of breast cancer that causes swelling as a result of built-up fluids.
+
+The robot used in the procedure, designed by Microsure, was manipulated by a human surgeon. His hand movements have been reduced to tinier and other accurate actions performed by "robot hands." The surgical robot was also used to fix the trembles in the surgeon’s activities, ensuring the AI-driven device was properly supervising the procedure.
+Robotic Hair Restoration enables surgical robots to harvest hair follicles and graft them into precise parts of the scalp, with the help of AI algorithms. The robot conducts MIS without requiring surgical removal of a donor area and eliminates the necessity for a hair transplant surgeon to manually extract one follicle at a time in a few hours-long procedures.
+
+
 
 
 
