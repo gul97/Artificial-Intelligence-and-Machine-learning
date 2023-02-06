@@ -61,7 +61,16 @@ The robot used in the procedure, designed by Microsure, was manipulated by a hum
 Robotic Hair Restoration enables surgical robots to harvest hair follicles and graft them into precise parts of the scalp, with the help of AI algorithms. The robot conducts MIS without requiring surgical removal of a donor area and eliminates the necessity for a hair transplant surgeon to manually extract one follicle at a time in a few hours-long procedures.
 
 
+#Da Vinci cardio 
+![image](https://user-images.githubusercontent.com/124528445/217040272-2d45c2d1-9b60-4a68-843b-61becce584bf.png)
 
+surgery is robotic cardiac surgery performed through very few openings in the chest, cut with robot-controlled tools and very small instruments. Cardio-robotic surgery has been used for different heart-related procedures such as coronary artery bypass, valve surgery, cardiac tissue ablation, tumor removal, and heart-fault repair.
+
+Its productivity and reliable use have been demonstrated during a mock surgical procedure performed at Purdue University, where Gestonurse used fingertip recognition and gesture deduction for manipulating the necessary tools.
+
+#Conclusion
+
+Surgeons set up collaborations with scientists to capture, method, and classify data across each stage of care to provide useful clinical settings. Artificial intelligence has the potential to transform the way surgery is taught and practiced.
 
 
 
