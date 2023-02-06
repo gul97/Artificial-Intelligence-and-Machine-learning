@@ -14,3 +14,12 @@ Although the relationship between the surgeon, patient, and machine has a lot of
 For instance, computed tomography (CT), ultrasound, and magnetic resonance imaging (MRI) have consistently improved surgical planning and navigation, while minimally invasive surgery (MIS), when used in conjunction with robotic assistance, has reduced surgical trauma and enhanced patient recovery.
 
 ## How AI is shaping preoperative planning
+
+Surgeons arrange the surgical procedure during the preoperative planning phase using the patient's medical history and imaging. Deep learning, which has been utilized for anatomical categorization, detection segmentation, and image registration, is boosting this step, which combines broad image-analysis approaches and traditional machine learning for classification.
+Calvarial fracture, cerebral bleeding, and midline shift were among the anomalies in CT scan that deep learning algorithms were able to recognize. Emergency care is made possible for these abnormalities because of deep learning, which also holds promise for the automation of triage in the future.
+Deep learning recurrent neural networks (RNN), which have been used to forecast mortality and postoperative bleeding following cardiac surgery as well as renal failure in real-time, have shown better outcomes than conventional clinical reference methods.
+
+![image](https://user-images.githubusercontent.com/124528445/217024447-636ea706-0af6-47b5-a54d-d3be670767d8.png)
+
+#******************
+
