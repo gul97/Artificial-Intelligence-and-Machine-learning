@@ -66,8 +66,7 @@ Robotic Hair Restoration enables surgical robots to harvest hair follicles and g
 ![image](https://user-images.githubusercontent.com/124528445/217040272-2d45c2d1-9b60-4a68-843b-61becce584bf.png)
 
 
-# surgery
-is robotic cardiac surgery performed through very few openings in the chest, cut with robot-controlled tools and very small instruments. Cardio-robotic surgery has been used for different heart-related procedures such as coronary artery bypass, valve surgery, cardiac tissue ablation, tumor removal, and heart-fault repair.
+surgery is robotic cardiac surgery performed through very few openings in the chest, cut with robot-controlled tools and very small instruments. Cardio-robotic surgery has been used for different heart-related procedures such as coronary artery bypass, valve surgery, cardiac tissue ablation, tumor removal, and heart-fault repair.
 
 Its productivity and reliable use have been demonstrated during a mock surgical procedure performed at Purdue University, where Gestonurse used fingertip recognition and gesture deduction for manipulating the necessary tools.
 
