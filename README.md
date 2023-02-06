@@ -9,4 +9,6 @@ Artificial intelligence (AI), defined as algorithms that allow machines to perfo
 
 However, compared to other medical specializations, it took longer for technology to be used in surgical procedures. This was mostly because there was a lack of information about the potential for computational implementation in real-world surgery. AI is currently seen as an addition to human surgeons' competence rather than a substitute because of the rapid advancements that have been recorded.
 
+Although the relationship between the surgeon, patient, and machine has a lot of promise, using AI in surgery is already bringing about big improvements for both patients and doctors.
 
+For instance, computed tomography (CT), ultrasound, and magnetic resonance imaging (MRI) have consistently improved surgical planning and navigation, while minimally invasive surgery (MIS), when used in conjunction with robotic assistance, has reduced surgical trauma and enhanced patient recovery.
