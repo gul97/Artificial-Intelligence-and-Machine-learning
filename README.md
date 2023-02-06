@@ -46,7 +46,12 @@ With the support of ML techniques, surgical robots help detect critical percepti
 
 Learning from demonstration (LfD) is used for "training" robots to accomplish new tasks individually, based on the collected information. In the first stage, LfD splits a complex surgical task into various subtasks and basic gestures. In the second stage, surgical robots recognize the model and conduct the subtasks in chronological mode, hence providing human surgeons with a break from tiresome tasks.
 
+The objective of expanding the use of autonomous robots in surgery and the tasks these robots act especially in MIS is a difficult endeavor. JHU-ISI Gesture and Skill Assessment Working Set (JIGSAWS) – the first public benchmark surgical activity dataset – featured kinematic data and corresponding video for three standard surgery tasks conducted by surgeons from Johns Hopkins University with different levels of surgical skills.
+The kinematics and stereo video was taken. The subtasks examined were stitching, needle passing, and knot tying. The gestures – the smallest levels of a surgery's considerable sections – performed during the implementation of each subtask – were recognized with an accuracy of around 80%. The result, even though promising, indicated there is room for progress, especially in forecasting the gesture activities conducted by various surgeons.
 
+For many surgical tasks, reinforcement learning (RL) is a frequently used machine-learning paradigm to solve subtasks, such as tube insertion and soft tissue movement, for which it is difficult to render precise critical models. RL algorithms are formatted based on policies learned from demonstrations, instead of learning from zero, hence lowering the time needed for the learning process.
+
+# Cases of AI-supported surgery
 
 
 
