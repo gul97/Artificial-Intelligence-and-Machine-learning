@@ -12,3 +12,5 @@ However, compared to other medical specializations, it took longer for technolog
 Although the relationship between the surgeon, patient, and machine has a lot of promise, using AI in surgery is already bringing about big improvements for both patients and doctors.
 
 For instance, computed tomography (CT), ultrasound, and magnetic resonance imaging (MRI) have consistently improved surgical planning and navigation, while minimally invasive surgery (MIS), when used in conjunction with robotic assistance, has reduced surgical trauma and enhanced patient recovery.
+
+## How AI is shaping preoperative planning
